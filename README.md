@@ -19,7 +19,9 @@ No | Project Link | Tools | Descripción
 
 ## ✅ ¡Objetivo alcanzado!
 
-Gracias a **Udacity & Amazon Web Services** por la intensidad y calidad del programa. La experiencia permitió:  
+Gracias a **Udacity & Amazon Web Services** por la intensidad y calidad del programa. 
+
+La experiencia me permitió:  
 - Analizar y desarrollar flujos de trabajo de **Machine Learning**.  
 - Implementar modelos de **Deep Learning** y **Redes Neuronales Convolucionales**.  
 - Comprender el despliegue y la monitorización de proyectos en entornos de nube.  
