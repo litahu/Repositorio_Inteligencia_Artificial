@@ -1,11 +1,8 @@
 # 🔧 Udacity - Programa: Machine Learning Engineer
 Presento los proyectos completados del "Udacity Machine Learning Fundamentals Nandegree", ofrecido por **AWS** como parte de la beca **"AWS AI & ML"**
 
----
-
 ✨ Este programa no solo fortaleció mis fundamentos técnicos, sino que también me brindó la oportunidad de conectar con mentores y compañeros de distintas culturas, enriqueciendo la experiencia de aprendizaje. 
 
-<br>
 
 ---
 
