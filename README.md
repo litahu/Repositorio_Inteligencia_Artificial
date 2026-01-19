@@ -9,7 +9,7 @@ Acontinuación presento los proyectos completados del "Udacity Machine Learning 
 ## 📂 Estructura del Proyecto
 
 No | Project Link | Tools | Descripción
----|---|---|---|---
+---|---|---|---
 1 |[Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | Numpy, Matplotlib, Pytorch, PIL(Pillow), Argparse | Desarrollo y entrenamiento de un modelo de **aprendizaje profundo** para clasificar imágenes de 102 tipos de flores. Se evalúo el rendimiento y la precisión del modelo en predicciones sobre nuevas imagenes.
 2 |[Clasificación y etiquetado de puntos de referencia locales para redes sociales](https://github.com/litahu/Clasificaci-n-y-etiquetado-de-lugares-emblem-ticos-para-redes-sociales) | Redes neuronales convolucionales, Autocodificadores, Voila | Realicé el preprocesamiento de datos, diseño y entrenamiento de  **CNNs**. Se desplegó una aplicación interactiva basada en el mejor modelo entrenado.
 3 |[Implementación y supervisión de un flujo de trabajo de aprendizaje automático en AWS](https://github.com/litahu/First_deployment) | AWS(IAM, SageMaker, Lambda, Step Functions, CloudWatch) | Construcción de un flujo completo de **Machine Learning**: preparación de datos, implementación y monitorización del modelo. Se integraron microservicios de AWS para lograr un sistema escalable, automatizado y confiable.  
