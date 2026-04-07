@@ -1,4 +1,4 @@
-# 🔧 **Beca: Machine Learning Engineer Fundamentals**
+# 🔧 **Becaria en Machine Learning Engineer Fundamentals**
 
 ✨ Este programa no solo fortaleció mis fundamentos técnicos, sino que también me brindó la oportunidad de conectar con mentores y compañeros de distintas culturas, enriqueciendo la experiencia de aprendizaje. 
 
